@@ -70,24 +70,7 @@ a:hover,a:focus{text-decoration:none;}
   0 0 80px rgb(255, 0, 0);
 }
 
-.landbutton {
-  font-size:20px;
-  margin-left: 26.5cm;
-  margin-top: 9.5cm;
-  color:rgb(199, 0, 0);
-}
 
-.landbutton :active {
-  color:rgb(199, 0, 0);
-}
-
-.landbutton :link{
-  color:rgb(199, 0, 0);
-}
-
-.landbutton :hover {
-  color: rgb(152, 0, 0);
-}
 .svg-wrapper:hover .shape {
   stroke-width: 2px;
   stroke-dashoffset: 0;
