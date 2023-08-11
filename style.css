@@ -8,7 +8,7 @@ body{
 }
 #landing{
   height:100vh;
-  background:url(https://cdn.discordapp.com/attachments/1010206563413262440/1138099487223578684/21352.jpg) no-repeat center center fixed;
+  background:url('bgrb.png') no-repeat center center fixed;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
@@ -36,7 +36,7 @@ a:hover,a:focus{text-decoration:none;}
   width: 320px;
   max-height:60px;
   cursor:default;
-  margin-left: 13.5cm;
+  margin-left: 28.5cm;
 }
 .shape {
   stroke-dasharray: 140 540;
@@ -72,10 +72,14 @@ a:hover,a:focus{text-decoration:none;}
 
 .landbutton {
   font-size:20px;
-  margin-left: 16.5cm;
-  margin-top: 9cm;
+  margin-left: 31.5cm;
+  margin-top: 11.5cm;
+  color:rgb(199, 0, 0);
 }
 
+.landbutton :active {
+  color:rgb(199, 0, 0);
+}
 
 .landbutton :link{
   color:rgb(199, 0, 0);
