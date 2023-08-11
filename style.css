@@ -36,7 +36,7 @@ a:hover,a:focus{text-decoration:none;}
   width: 320px;
   max-height:60px;
   cursor:default;
-  margin-left: 28.5cm;
+  margin-left: 25.5cm;
 }
 .shape {
   stroke-dasharray: 140 540;
@@ -73,7 +73,7 @@ a:hover,a:focus{text-decoration:none;}
 .landbutton {
   font-size:20px;
   margin-left: 31.5cm;
-  margin-top: 11.5cm;
+  margin-top: 9.5cm;
   color:rgb(199, 0, 0);
 }
 
